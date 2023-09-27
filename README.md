@@ -1,0 +1,20 @@
+## missi_phonenonab_global-user 13 TKQ1.221013.002 V14.0.4.0.TKFMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: sm6150
+- Codename: sweet
+- Brand: Redmi
+- Flavor: missi_phonenonab_global-user
+- Release Version: 13
+- Kernel Version: 4.14.190
+- Id: TKQ1.221013.002
+- Incremental: V14.0.4.0.TKFMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: 440
+- Fingerprint: Redmi/sweet_global/sweet:13/RKQ1.210614.002/V14.0.4.0.TKFMIXM:user/release-keys
+- OTA version: 
+- Branch: missi_phonenonab_global-user-13-TKQ1.221013.002-V14.0.4.0.TKFMIXM-release-keys-15999
+- Repo: redmi_sweet_dump
